@@ -10,8 +10,6 @@
   "integration_type": "hub",
   "iot_class": "cloud_push",
   "issue_tracker": "https://github.com/yourname/zigbang_doorlock_pyscript/issues",
-  "requirements": [
-    "rustPlusPushReceiver==0.4.1"
-  ],
+  "requirements": [],
   "version": "1.0.0"
 }
