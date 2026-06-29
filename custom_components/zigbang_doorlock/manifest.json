@@ -1,0 +1,17 @@
+{
+  "domain": "zigbang_doorlock",
+  "name": "Zigbang Doorlock",
+  "codeowners": [
+    "@yourname"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/yourname/zigbang_doorlock_pyscript",
+  "integration_type": "hub",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/yourname/zigbang_doorlock_pyscript/issues",
+  "requirements": [
+    "rustPlusPushReceiver==0.4.1"
+  ],
+  "version": "1.0.0"
+}

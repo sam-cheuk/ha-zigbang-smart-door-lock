@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to Zigbang",
+        "description": "Enter your Zigbang credentials.",
+        "data": {
+          "username": "Username",
+          "password": "Password",
+          "imei": "IMEI (optional)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect"
+    }
+  }
+}

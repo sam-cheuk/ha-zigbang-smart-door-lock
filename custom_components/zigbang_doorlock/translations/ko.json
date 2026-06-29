@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "직방 계정 연결",
+        "description": "직방 아이디와 비밀번호를 입력하세요.",
+        "data": {
+          "username": "아이디",
+          "password": "비밀번호",
+          "imei": "IMEI (선택)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "연결에 실패했습니다"
+    }
+  }
+}

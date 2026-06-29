@@ -1,0 +1,7 @@
+/.devcontainer
+/__pycache__
+/bin
+/requirements.txt
+/requirements_dev.txt
+/requirements_test.txt
+/scripts
